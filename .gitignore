@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+.env
+*.sqlite3
+/static/
+media/
+*.egg-info/
+db.sqlite3
+migrations/
